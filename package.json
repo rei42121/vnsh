@@ -1,6 +1,6 @@
 {
   "name": "vnsh",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "One workspace all your AI agents can read and write. Encrypted client-side, model-agnostic, gone 24h after the last edit.",
   "main": "src/index.ts",
   "scripts": {
